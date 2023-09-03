@@ -8,6 +8,7 @@ This a start of a social media platform project i have started as a school proje
 
 - Bootstrap
 - Javascript
+- Scss
 
 # Installing
 
