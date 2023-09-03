@@ -6,11 +6,10 @@ This a start of a social media platform project i have started as a school proje
 
 # Built with
 
-* Bootstrap
-* Javascript
+- Bootstrap
+- Javascript
 
-
-# Installing 
+# Installing
 
 1. Clone the repo
 
