@@ -2,7 +2,7 @@
 
 # Description
 
-This a start of a social media platform project i have started as a school project. For now it is called "Space".
+This a start of a social media platform project i have started as a school project. For now it is called "Space". Feel free to check out my project!
 
 # Built with
 
